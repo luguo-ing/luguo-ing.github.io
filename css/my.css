@@ -44,13 +44,7 @@ img[src=""] {
     color: inherit
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    color: #505050;
-    font: 12px -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif;
-    -webkit-font-smoothing: antialiased
-}
+
 
 *,
 .van-popover {

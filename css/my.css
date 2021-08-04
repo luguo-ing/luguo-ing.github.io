@@ -3424,7 +3424,8 @@ body {
 
 .bilifont {
     font-family: bilifont!important;
-    font-size: 25px;
+    font-size: 20px;
+    vertical-align: -3px;
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale

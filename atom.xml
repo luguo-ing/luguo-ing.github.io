@@ -6,7 +6,7 @@
   <link href="https://luguo-ing.github.io/atom.xml" rel="self"/>
   
   <link href="https://luguo-ing.github.io/"/>
-  <updated>2021-08-06T09:29:04.852Z</updated>
+  <updated>2021-08-06T14:50:42.161Z</updated>
   <id>https://luguo-ing.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://luguo-ing.github.io/2021/08/06/xuexi/"/>
     <id>https://luguo-ing.github.io/2021/08/06/xuexi/</id>
     <published>2021-08-06T09:10:00.000Z</published>
-    <updated>2021-08-06T09:29:04.852Z</updated>
+    <updated>2021-08-06T14:50:42.161Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;机器学习心得&quot;&gt;&lt;a href=&quot;#机器学习心得&quot; class=&quot;headerlink&quot; title=&quot;机器学习心得&quot;&gt;&lt;/a&gt;机器学习心得&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+    <summary type="html">&lt;h1 id=&quot;机器学习心得&quot;&gt;&lt;a href=&quot;#机器学习心得&quot; class=&quot;headerlink&quot; title=&quot;机器学习心得&quot;&gt;&lt;/a&gt;机器学习心得&lt;/h1&gt;&lt;iframe</summary>
         
       
     
@@ -36,63 +36,6 @@
     
     
     <category term="机器学习" scheme="https://luguo-ing.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://luguo-ing.github.io/2021/08/04/15651/"/>
-    <id>https://luguo-ing.github.io/2021/08/04/15651/</id>
-    <published>2021-08-04T08:24:20.375Z</published>
-    <updated>2021-08-04T08:24:20.412Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;安慰让人&quot;&gt;&lt;a href=&quot;#安慰让人&quot; class=&quot;headerlink&quot; title=&quot;安慰让人&quot;&gt;&lt;/a&gt;安慰让人&lt;/h3&gt;&lt;p&gt;aaa[^awe]&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;awe&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_my_site</title>
-    <link href="https://luguo-ing.github.io/2021/08/03/test-my-site/"/>
-    <id>https://luguo-ing.github.io/2021/08/03/test-my-site/</id>
-    <published>2021-08-03T12:47:00.000Z</published>
-    <updated>2021-08-03T12:47:00.246Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://luguo-ing.github.io/2021/08/03/hello-world/"/>
-    <id>https://luguo-ing.github.io/2021/08/03/hello-world/</id>
-    <published>2021-08-03T12:45:35.768Z</published>
-    <updated>2021-08-06T09:14:06.116Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
